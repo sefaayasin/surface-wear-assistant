@@ -11,8 +11,6 @@ Bazı sektörlerde yüksek sıcaklık ve mesafeye bağlı olarak yüzey kalınl�
 - Kritik seviyeye ulaşmadan kullanıcıyı uyarır.
 - Tüm verileri kaydeder ve grafik olarak sunar.
 
-Bu proje, özellikle endüstriyel firmalara yapılan bir başvuru sürecinde, ilgisiz bırakılan ve daha sonra pozisyonun tekrar açıldığını gören bir mühendisin, kendi becerilerini somut şekilde ortaya koymak amacıyla geliştirilmiştir.
-
 ## 🛠️ Kullanılan Teknolojiler
 
 - **Python (PyQt5)** – Masaüstü arayüz geliştirme
@@ -53,7 +51,6 @@ Sentetik veri ile 1000 örnek üretildi. Kullanılan formül:
 - Gerçek zamanlı sıcaklık, mesafe ve tahmini kalınlık gösterilir.
 - Kritik aşınma uyarısı verilir.
 - Ne zaman kritik seviyeye ulaşılacağı tahmin edilir.
-- Tüm veriler `data/logs.csv` olarak kaydedilir.
 - Kalınlık değişimi zaman ekseninde grafikle görselleştirilir.
 
 
