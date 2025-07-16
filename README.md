@@ -1,4 +1,4 @@
-
+https://github.com/sefaayasin/surface-wear-assistant/blob/01fc352cbf827102755760404009a5e6fd45c875/main.png
 
 # Yüzey Aşınma Asistanı 🔧📉
 
