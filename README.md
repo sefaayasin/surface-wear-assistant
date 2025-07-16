@@ -1,5 +1,4 @@
 
-![Uygulama Arayüzü](Ekran görüntüsü 2025-07-16 150158.png)
 
 # Yüzey Aşınma Asistanı 🔧📉
 
